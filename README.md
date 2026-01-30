@@ -9,7 +9,7 @@ ________________________________________________________________________________
 CryEngine2 Source SDK Copyright(c) CryTek Corp. For NON COMMERCIAL Purposes only.
 
 You may, free of charge, download and use the SDK to develop a modified CryTek game running on the CryEngine 2.  
-You may distribute your modified CryTek game in CryEngine 1 and object code form, but only for free.
+You may distribute your modified CryTek game in CryEngine 2 and object code form, but only for free.
 
     DISCLAIMER OF WARRANTIES.  THE CryEngine 2 SDK AND ANY 
     OTHER MATERIAL DOWNLOADED BY LICENSEE IS PROVIDED 
